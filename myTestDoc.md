@@ -2,9 +2,9 @@
 
 There are 68 variables in the tidy.txt datafile.  The format of the code book is:
 
-			column	    	variable name
-					    description
-					    value(s)    
+	column	variable name
+		description
+		value(s)    
 		
 
      1	activity                             	   				      

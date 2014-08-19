@@ -18,275 +18,271 @@ There are 68 variables in the tidy.txt datafile.  The format of the code book is
      	6. LAYING                                                                          
                
      2	subject                                                                           
-       	An integer value assigned to each participant in the student.                     
+       	An integer value assigned to each participant in the experiment.                     
        	Value range: [1:30]  
        
 The following 66 variables are the mean of measurements.        
                                                                                        
      3  tBodyAccMeanX                                                                     
-       	The mean time domain signal of the body acceleration in the X-axis direction.
+       	The mean of the time domain signal of the body acceleration in the X-axis direction.
        	Value range: (-1:1)
                                                                                        
      4  tBodyAccMeanY                                                                     
-       	The mean time domain signal of the body acceleration in the Y-axis direction.
+       	The mean of the time domain signal of the body acceleration in the Y-axis direction.
        	Value range: (-1: 1)
                                                                                        
      5  tBodyAccMeanZ                                                                     
-       	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	The mean of the time domain signal of the body acceleration in the Z-axis direction. 
        	Value range: (-1:1)
        	
-     5  tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+     6  tBodyAccStdX                                                                     
+	The mean of the standard deviation of the time domain signal of the body acceleration in the X-axis direction. 
        	Value range: (-1:1)
        	    	
-     5  tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+     7  tBodyAccStdY                                                                     
+	The mean of the standard deviation of the time domain signal of the body acceleration in the Y-axis direction. 
        	Value range: (-1:1)
         	
-     5  tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+     8  tBodyAccStdZ                                                                        
+	The mean of the standard deviation of the time domain signal of the body acceleration in the Z-axis direction. 
        	Value range: (-1:1)
         	
-     5  tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+     9  tGravityAccMeanX                                                                     
+	The mean of the time domain signal of the gravitational acceleration in the X-axis direction. 
        	Value range: (-1:1)
         	
-    10	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    10	tGravityAccMeanY                                                                    
+	The mean of the time domain signal of the gravitational acceleration in the Y-axis direction. 
        	Value range: (-1:1)  
        	
-    10	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    11	tGravityAccMeanZ                                                                     
+	The mean of the time domain signal of the gravitational acceleration in the Z-axis direction. 
        	Value range: (-1:1)
          	
-    10	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    12	tGravityAccStdX                                                                     
+	The mean of the standard deviation of the time domain signal of the gravitational acceleration in the X-axis direction. 
        	Value range: (-1:1)
         	
-    10	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    13	tGravityAccStdY                                                                     
+	The mean of the standard deviation of the time domain signal of the gravitational acceleration in the Y-axis direction.
        	Value range: (-1:1)
         	
-    10	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    14	tGravityAccStdZ                                                                     
+	The mean of the standard deviation of the time domain signal of the gravitational acceleration in the Z-axis direction.
        	Value range: (-1:1)       	
         	
-    10	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    15	tBodyAccJerkMeanX                                                                     
+	The mean of the time domain signal of the body acceleration jerk in the X-axis direction. 
        	Value range: (-1:1)
         	
-    10	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    16	tBodyAccJerkMeanY                                                                     
+	The mean of the time domain signal of the body acceleration jerk in the Y-axis direction. 
        	Value range: (-1:1)
          	
-    10	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    17	tBodyAccJerkMeanZ                                                                     
+	The mean of the time domain signal of the body acceleration jerk in the Z-axis direction. 
        	Value range: (-1:1)  
        	        	
-    10	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    18	tBodyAccJerkStdX                                                                     
+	The mean of the standard deviation of the time domain signal of the body acceleration jerk in the X-axis direction. 
        	Value range: (-1:1)
          	
-    10	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    19	tBodyAccJerkStdY                                                                     
+	The mean of the standard deviation of the time domain signal of the body acceleration jerk in the Y-axis direction. 
        	Value range: (-1:1)
          	
-    20	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    20	tBodyAccMJerkStdZ                                                                     
+	The mean of the standard deviation of the time domain signal of the body acceleration jerk in the Z-axis direction. 
        	Value range: (-1:1) 
          	
-    20	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    21	tBodyGyroMeanX                                                                     
+	The mean of the time domain signal of the body gyration in the X-axis direction. 
        	Value range: (-1:1)
          	
-    20	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    22	tBodyGyroMeanY                                                                     
+	The mean of the time domain signal of the body gyration in the Y-axis direction. 
        	Value range: (-1:1)
          	
-    20	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    23	tBodyGyroMeanZ                                                                     
+	The mean of the time domain signal of the body gyration in the Z-axis direction. 
        	Value range: (-1:1)
          	
-    20	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    24	tBodyGyroStdX                                                                     
+	The mean of the standard deviation of the time domain signal of the body gyration in the X-axis direction. 
        	Value range: (-1:1)
          	
-    20	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    25	tBodyGyroStdY                                                                     
+	The mean of the standard deviation of the time domain signal of the body gyration in the Y-axis direction. 
        	Value range: (-1:1)
            	
-    20	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    26	tBodyGyroStdZ                                                                     
+	The mean of the standard deviation of the time domain signal of the body gyration in the Z-axis direction. 
        	Value range: (-1:1)     	
   
-    20	tBodyAccMeanZ                                                                     
-  	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    27	tBodyGyroJerkMeanX                                                                     
+  	The mean of the time domain signal of the body gyration jerk in the X-axis direction. 
        	Value range: (-1:1)
          	
-    20	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    28	tBodyGyroJerkMeanY                                                                     
+	The mean of the time domain signal of the body gyration jerk in the Y-axis direction. 
        	Value range: (-1:1)
           	
-    20	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    29	tBodyGyroJerkMeanZ                                                                     
+	The mean of the time domain signal of the body gyration jerk in the Z-axis direction. 
        	Value range: (-1:1)
            	
-    30	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    30	tBodyGyroJerkStdX                                                                     
+	The mean of the standard deviation of the time domain signal of the body gyration jerk in the X-axis direction. 
        	Value range: (-1:1)  
             	
-    30	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    31	tBodyGyroJerkStdY                                                                     
+	The mean of the standard deviation of the time domain signal of the body gyration jerk in the Y-axis direction. 
        	Value range: (-1:1) 
              	
-    30	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    32	tBodyGyroJerkStdZ                                                                     
+	The mean of the standard deviation of the time domain signal of the body gyration jerk in the Z-axis direction. 
        	Value range: (-1:1) 
               	
-    30	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    33	tBodyAccMagMean                                                                    
+	The mean of the magnitude of the three dimensional body acceleration signals. 
        	Value range: (-1:1) 
               	
-    30	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    34	tBodyAccStd                                                                     
+	The mean of the standard deviaiton of the three dimensional body accelearation signals. 
        	Value range: (-1:1) 
             	
-    30	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    35	tGravityAccMagMean                                                                   
+	The mean of the magnitude of the three dimensional gravitational acceleration signals. 
        	Value range: (-1:1) 
              	
-    30	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    36	tGravityAccMagStd                                                                     
+	The mean of the standard deviation of the magnitude of the three dimensional gravitational accelaration signals. 
        	Value range: (-1:1) 
            	
-    30	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    37	tBodyAccJerkMagMean                                                                     
+	The mean of the magnitude of the three dimensional body acceleration jerk signals. 
        	Value range: (-1:1)        	
            	
-    30	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    38	tBodyAccJerkMagStd                                                                     
+	The mean of the standard deviation of the three dimensional body acceleration jerk signals.
        	Value range: (-1:1)        	
            	
-    30	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
-       	Value range: (-1:1) 
-           	
-    30	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    39	tBodyGyroMagMean                                                                  
+	The mean of the magnitude of the three dimensional gyration signals. 
        	Value range: (-1:1)        	
            	
-    40	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    40	tBodyGyroMagStd                                                                     
+	The mean of the standard deviation of the magnititude of the three dimensional gyration signals. 
        	Value range: (-1:1)  
            	
-    40	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    41	tBodyGyroJerkMagMean                                                                     
+	The mean of the magnitude of the three dimensional gyration jerk signals.
        	Value range: (-1:1)
             	
-    40	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    42	tBodyGyroJerkMagStd                                                                  
+	The mean of the standard deviation of the three dimensional gyration jerk signals.
        	Value range: (-1:1)
              	
-    40	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    43	fBodyAccMeanX                                                                     
+	The mean of the Fast Fourier Transform applied to the signal of the body acceleration in the X-axis direction. 
        	Value range: (-1:1)
              	
-    40	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    44	fBodyAccMeanY                                                                     
+	The mean of the Fast Fourier Transform applied to the signal of the body acceleration in the Y-axis direction. 
        	Value range: (-1:1)
             	
-    40	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    45	fBodyAccMeanZ                                                                     
+	The mean of the Fast Fourier Transform applied to the signal of the body acceleration in the Z-axis direction. 
        	Value range: (-1:1)
              	
-    40	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    46	fBodyAccStdX                                                                     
+	The mean of the standard deviation of the Fast Fourier Transform applied to the signal of the body acceleration in the X-axis direction. 
        	Value range: (-1:1)
              	
-    40	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    47	fBodyAccStdY                                                                     
+	The mean of the standard deviation of the Fast Fourier Transform applied to the signal of the body acceleration in the Y-axis direction. 
        	Value range: (-1:1)
            	
-    40	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    48	fBodyAccStdZ                                                                     
+	The mean of the standard deviation of the Fast Fourier Transform applied to the signal of the body acceleration in the Z-axis direction. 
        	Value range: (-1:1)
               	
-    40	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    49	fBodyAccJerkMeanX                                                                     
+	The mean of the Fast Fourier Transform applied to the signal of the body acceleration jerk in the X-axis direction. 
        	Value range: (-1:1)
             	
-    50	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    50	fBodyAccJerkMeanY                                                                     
+	The mean of the Fast Fourier Transform applied to the signal of the body acceleration jerk in the Y-axis direction. 
        	Value range: (-1:1)
             	
-    50	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    51	fBodyAccJerkMeanZ                                                                     
+	The mean of the Fast Fourier Transform applied to the signal of the body acceleration jerk in the Z-axis direction. 
        	Value range: (-1:1)
              	
-    50	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    52	fBodyAccJerkStdX                                                                    
+	The mean of the standard deviation of the Fast Fourier Transform applied to the signal of the body acceleration jerk in the X-axis direction. 
        	Value range: (-1:1)
             	
-    50	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    53	fBodyAccJerkStdY                                                                     
+	The mean of the standard deviation of the Fast Fourier Transform applied to the signal of the body acceleration jerk in the Y-axis direction. 
        	Value range: (-1:1)
             	
-    50	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    54	fBodyAccJerkStdZ                                                                     
+	The mean of the standard deviation of the Fast Fourier Transform applied to the signal of the body acceleration jerk in the Z-axis direction. 
        	Value range: (-1:1)
             	
-    50	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    55	fBodyGyroMeanX                                                                     
+	The mean of the Fast Fourier Transform applied to the signal of the body gyration in the X-axis direction. 
        	Value range: (-1:1)
             	
-    50	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    56	fBodyGyroMeanY                                                                     
+	The mean of the Fast Fourier Transform applied to the signal of the body gyration in the Y-axis direction. 
        	Value range: (-1:1)
             	
-    50	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    57	fBodyGyroMeanZ                                                                     
+	The mean of the Fast Fourier Transform applied to the signal of the body gyration in the Z-axis direction. 
        	Value range: (-1:1)
             	
-    50	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    58	fBodyGyroStdX                                                                     
+	The mean of the standard deviation of the Fast Fourier Transform applied to the signal of the body gyration in the X-axis direction. 
        	Value range: (-1:1)
             	
-    50	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    59	fBodyGyroStdY                                                                     
+	The mean of the standard deviation of the Fast Fourier Transform applied to the signal of the body gyration in the Y-axis direction. 
        	Value range: (-1:1)
             	
-    60	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    60	fBodyGyroStdZ                                                                     
+	The mean of the standard deviation of the Fast Fourier Transform applied to the signal of the body gyration in the Z-axis direction. 
        	Value range: (-1:1) 
             	
-    60	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    61	fBodyAccMagMean                                                                     
+	The mean of the magnitude of the Fast Fourier Transform applied to the three dimensional body acceleration signals.  
        	Value range: (-1:1)
              	
-    60	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    62	fBodyAccMagStd                                                                     
+	The mean of the standard deviation of the magnitude of the Fast Fourier Transform applied to the three dimensional body acceleration signals. 
        	Value range: (-1:1)
             	
-    60	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    63	fBodyBodyAccJerkMagMean                                                                     
+	The mean of the magnitude of the Fast Fourier Transform applied to the three dimensional body acceleration jerk signals.
        	Value range: (-1:1)
             	
-    60	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    64	fBodyBodyAccJerkMagStd                                                                   
+	The mean of the standard deviation of the Fast Fourier Transforms applied to the three dimensional body acceleration jerk signals. 
        	Value range: (-1:1)
              	
-    60	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    65	fBodyBodyGyroMagMean                                                                     
+	The mean of the magnitude of the Fast Fourier Transform applied to the three dimensional body gyration signals. 
        	Value range: (-1:1)
              	
-    60	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    66	fBodyBodyGyroMagStd                                                                    
+	The mean of the standard deviation of the magnitude of the Fast Fourier Transform applied to the three dimensional body gyration signals. 
        	Value range: (-1:1) 
             	
-    60	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    67	fBodyBodyGyroJerkMagMean                                                                   
+	The mean of the magnitude of the Fast Fourier Transform applied to the three dimensional body gyration jerk signals.
        	Value range: (-1:1)
              	
-    60	tBodyAccMeanZ                                                                     
-	The mean time domain signal of the body acceleration in the Z-axis direction. 
+    60	fBodyBodyGyroJerkMagStd                                                                    
+	The mean of the standard deviation of the magnitude of the Fast Fourier Transform applied to the three dimensional body gyration jerk signals.
        	Value range: (-1:1)      	

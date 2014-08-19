@@ -2,9 +2,9 @@
 
 There are 68 variables in the tidy.txt datafile.  The format of the code book is:
 
-			column 		variable name
-					description
-					value(s)    
+			column 			variable name
+						description
+						value(s)    
 		
 
      1	activity                             	   				      
@@ -36,7 +36,7 @@ The following 66 variables are the mean of measurements.
        	Value range: (-1:1)
        	
      6  tBodyAccStdX                                                                     
-	The mean of the standard deviation of the time domain signal of the body acceleration in the X-axis direction. 
+     	The mean of the standard deviation of the time domain signal of the body acceleration in the X-axis direction. 
        	Value range: (-1:1)
        	    	
      7  tBodyAccStdY                                                                     

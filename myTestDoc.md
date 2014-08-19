@@ -40,19 +40,19 @@ The following 66 variables are the mean of measurements.
        	Value range: (-1:1)
        	    	
      7  tBodyAccStdY                                                                     
-	The mean of the standard deviation of the time domain signal of the body acceleration in the Y-axis direction. 
+     	The mean of the standard deviation of the time domain signal of the body acceleration in the Y-axis direction. 
        	Value range: (-1:1)
         	
      8  tBodyAccStdZ                                                                        
-	The mean of the standard deviation of the time domain signal of the body acceleration in the Z-axis direction. 
+     	The mean of the standard deviation of the time domain signal of the body acceleration in the Z-axis direction. 
        	Value range: (-1:1)
         	
      9  tGravityAccMeanX                                                                     
-	The mean of the time domain signal of the gravitational acceleration in the X-axis direction. 
+     	The mean of the time domain signal of the gravitational acceleration in the X-axis direction. 
        	Value range: (-1:1)
         	
     10	tGravityAccMeanY                                                                    
-	The mean of the time domain signal of the gravitational acceleration in the Y-axis direction. 
+    	The mean of the time domain signal of the gravitational acceleration in the Y-axis direction. 
        	Value range: (-1:1)  
        	
     11	tGravityAccMeanZ                                                                     

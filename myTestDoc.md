@@ -1,8 +1,8 @@
 ### Code book for tidy.txt datafile
  
-##column  variable name & description & value(s)\|                                                 
-------- --------------------------------------------------------------------------------- 
-     1	activity                             	   				      
+###column  variable name & description & value(s)                                                 
+-----   --------------------------------------------------------------------------------- 
+   1	activity                             	   				      
      	A variable length character description of the measured activity.                
         Values:
         - WALKING                                                                      

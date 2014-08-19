@@ -1,13 +1,15 @@
 ## Code book for tidy.txt datafile
  
-\|column \| variable name & description & value(s)\|                                                 
-\|-------\| --------------------------------------------------------------------------------- \|
+|column | variable name & description & value(s)\|                                                 
+|-------| --------------------------------------------------------------------------------- |
                                                                                        
-\|    1  \|  activity \|                             	   				
-\|       \|     A variable length character description of the measured activity. \|                
-\|       \|      - WALKING \|                                                                        
-\|       \|      - WALKING_UPSTAIRS \|                                                               
-     - WALKING_DOWNSTAIRS                                                              
+|    1  |  activity |                             	   				      
+|       |   A variable length character description of the measured activity.|                
+|       |      - WALKING |                                                                        
+|       |      - WALKING_UPSTAIRS |                                                               
+    
+    
+    - WALKING_DOWNSTAIRS                                                              
      - SITTING                                                                         
      - STANDING                                                                        
      - LAYING                                                                          

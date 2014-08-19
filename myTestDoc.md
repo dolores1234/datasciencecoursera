@@ -1,9 +1,9 @@
 ### Code book for tidy.txt datafile
  
-column  variable name & description & value(s)\|                                                 
+##column  variable name & description & value(s)\|                                                 
 ------- --------------------------------------------------------------------------------- 
      1	activity                             	   				      
-	A variable length character description of the measured activity.                
+     	A variable length character description of the measured activity.                
         Values:
         - WALKING                                                                      
         - WALKING_UPSTAIRS                                                                
@@ -11,7 +11,6 @@ column  variable name & description & value(s)\|
      	- SITTING                                                                         
      	- STANDING                                                                        
      	- LAYING                                                                          
-                                                                                       
                                                                                        
     2  subject                                                                           
        An integer value assigned to each participant in the student.                     

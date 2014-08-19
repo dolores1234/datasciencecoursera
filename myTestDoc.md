@@ -2,9 +2,9 @@
 
 There are 68 variables in the tidy.txt datafile.  The format of the code book is:
 
-			column 			variable name
-						description
-						value(s)    
+			column	    variable name
+					description
+					value(s)    
 		
 
      1	activity                             	   				      
@@ -283,6 +283,6 @@ The following 66 variables are the mean of measurements.
 	The mean of the magnitude of the Fast Fourier Transform applied to the three dimensional body gyration jerk signals.
        	Value range: (-1:1)
              	
-    60	fBodyBodyGyroJerkMagStd                                                                    
+    68	fBodyBodyGyroJerkMagStd                                                                    
 	The mean of the standard deviation of the magnitude of the Fast Fourier Transform applied to the three dimensional body gyration jerk signals.
        	Value range: (-1:1)      	

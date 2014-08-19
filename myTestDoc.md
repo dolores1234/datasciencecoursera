@@ -34,3 +34,259 @@ The following 66 variables are the mean of measurements.
      5  tBodyAccMeanZ                                                                     
        	The mean time domain signal of the body acceleration in the Z-axis direction. 
        	Value range: (-1:1)
+       	
+     5  tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+       	    	
+     5  tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+        	
+     5  tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+        	
+     5  tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+        	
+    10	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)  
+       	
+    10	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+         	
+    10	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+        	
+    10	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+        	
+    10	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)       	
+        	
+    10	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+        	
+    10	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+         	
+    10	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)  
+       	        	
+    10	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+         	
+    10	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+         	
+    20	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1) 
+         	
+    20	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+         	
+    20	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+         	
+    20	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+         	
+    20	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+         	
+    20	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+           	
+    20	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)     	
+  
+    20	tBodyAccMeanZ                                                                     
+  	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+         	
+    20	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+          	
+    20	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+           	
+    30	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)  
+            	
+    30	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1) 
+             	
+    30	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1) 
+              	
+    30	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1) 
+              	
+    30	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1) 
+            	
+    30	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1) 
+             	
+    30	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1) 
+           	
+    30	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)        	
+           	
+    30	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)        	
+           	
+    30	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1) 
+           	
+    30	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)        	
+           	
+    40	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)  
+           	
+    40	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+            	
+    40	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+             	
+    40	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+             	
+    40	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+            	
+    40	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+             	
+    40	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+             	
+    40	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+           	
+    40	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+              	
+    40	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+            	
+    50	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+            	
+    50	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+             	
+    50	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+            	
+    50	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+            	
+    50	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+            	
+    50	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+            	
+    50	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+            	
+    50	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+            	
+    50	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+            	
+    50	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+            	
+    60	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1) 
+            	
+    60	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+             	
+    60	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+            	
+    60	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+            	
+    60	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+             	
+    60	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+             	
+    60	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1) 
+            	
+    60	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)
+             	
+    60	tBodyAccMeanZ                                                                     
+	The mean time domain signal of the body acceleration in the Z-axis direction. 
+       	Value range: (-1:1)      	
